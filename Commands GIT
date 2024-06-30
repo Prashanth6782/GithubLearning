@@ -1,0 +1,10 @@
+git status
+git init
+git status
+git remote -v
+GithubLearning
+git add .
+main branch
+----how to connect folder to github repo
+git remote add origin <UR repository URL>
+git remote add origin https://github.com/Prashanth6782/GithubLearning.git
