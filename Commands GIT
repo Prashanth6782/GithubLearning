@@ -19,3 +19,13 @@ git branch new_branch
 git switch new_branch
 
 add something
+
+git checkout feature-branch
+
+git push origin feature-branch:master
+
+Use the -d option to delete a branch that has been fully merged
+Use the -D option to force delete a branch that may not have been fully merged:
+
+git push origin new_branch:master
+git merge new_branch
