@@ -8,3 +8,12 @@ main branch
 ----how to connect folder to github repo
 git remote add origin <UR repository URL>
 git remote add origin https://github.com/Prashanth6782/GithubLearning.git
+
+git commit -m "first commit"
+C:\Users\Acer\OneDrive\Python_Pk\gitlearn>git log
+commit 870034bab9a1f891799530eec27a40f8fb7afa9f (HEAD -> master)
+
+PAT
+git branch
+git branch new_branch
+git switch new_branch
